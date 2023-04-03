@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTile Should render a component with a product name 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffe Mug - Sin imagen
+  </span>
+</div>
+`;
+
+exports[`ProductTile Should render a product tile 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom Product
+</span>
+`;
